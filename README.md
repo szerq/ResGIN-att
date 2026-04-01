@@ -6,4 +6,5 @@ Python 3.9.18
 Pytorch 2.2.0
 Pytorch Geometric 2.6.1
 numpy 1.26.4
-#Result
+# Result
+![image](https://github.com/szerq/ResGIN-att/blob/main/result.png)
