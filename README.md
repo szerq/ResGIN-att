@@ -3,8 +3,8 @@ We introduce a novel model named the Residual Graph Isomorphism Network integrat
 ![image](https://github.com/szerq/ResGIN-att/blob/main/model.png)
 # Requirements
 Python 3.9.18                                                                                                                                                                                     
-Pytorch 2.2.0
-Pytorch Geometric 2.6.1
+Pytorch 2.2.0                                                                                                                                                                                     
+Pytorch Geometric 2.6.1                                                                                                                                                                           
 numpy 1.26.4
 # Result
 ![image](https://github.com/szerq/ResGIN-att/blob/main/result.png)
